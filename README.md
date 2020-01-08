@@ -1,2 +1,3 @@
-# vanilla-js-todo-app
-Created with CodeSandbox
+# Vanilla JavaScript Todo App
+
+A simple vanilla JavaScript todo app with basic CRUD functionality.
